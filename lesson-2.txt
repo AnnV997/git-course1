@@ -1,0 +1,4 @@
+git init là câu lệnh để khởi tạo project/thư mục được quản lý bởi git
+git add <file name> là dùng để add file vào vùng staging
+git add . là dùng để add toàn bộ file vào vùng staging
+git commit -m "message": tạo commit với nội dung <message>
